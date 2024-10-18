@@ -14,6 +14,7 @@ public class EjercicioUno {
     listFruist.add(fruits);
     listFruist.add(fruits1);
     listFruist.add(fruits2);
+        System.out.println("Imprime primer lista " + listFruist);
     //Imprime el tamaño de la lista y los elementos.
         System.out.println(listFruist.size());
 
